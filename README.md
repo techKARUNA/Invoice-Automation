@@ -1,4 +1,4 @@
-# Invoice Analytics Dashboard
+<img width="470" height="393" alt="image" src="https://github.com/user-attachments/assets/f596ac9e-196e-44c6-b167-d0d917a239ea" /># Invoice Analytics Dashboard
 
 A professional Flask + Pandas based dashboard for analyzing invoice data.  
 This project extracts invoice details (from CSV/PDF), processes them using **Pandas**, and provides an interactive dashboard built with **Chart.js** and **Bootstrap**.  
@@ -58,8 +58,9 @@ If you don’t have Git installed, you can run the project using the ZIP downloa
 
   📸 Screenshots
    ### Dashboard Overview
-      ![Dashboard Screenshot](https://github.com/user-attachments/assets/b363ecd5-63b8-45b4-9542-f3c4cf5b16d5)
+  ![Dashboard Screenshot](https://github.com/user-attachments/assets/4f8ff71c-9c9e-4f68-8027-58b84d15de7c)
    ### Charts & Insights
-      ![Dashboard Screenshot](https://github.com/user-attachments/assets/2db44703-3cf1-44f1-b7dc-f65356462a11)
-      ![Dashboard Screenshot](https://github.com/user-attachments/assets/299cfe67-977e-465e-9e65-9dda69c0101e)
+  ![Dashboard Screenshot](https://github.com/user-attachments/assets/4c9a719f-8b52-4cf4-aee1-71488129df47)
+  ![Dashboard Screenshot](https://github.com/user-attachments/assets/7000da62-6b2a-4ee6-b0d4-1275c7e9cad3)
+
 
